@@ -2,10 +2,10 @@
 
 InkMotion is an intuitive virtual whiteboard that uses OpenCV and cvzone’s hand detection to turn hand gestures into drawing tools! Select colors, switch between drawing and erasing, and more—all with the flick of a finger.
 
-![1730045382584283](https://github.com/user-attachments/assets/14ebdac0-679d-45f0-b662-2751a370f57e)
+
 ![1730045105260711](https://github.com/user-attachments/assets/f7aee652-803f-432f-86bd-caf5816324fd)
 ![1730042275475931](https://github.com/user-attachments/assets/929f9532-28b2-4f50-abbd-0a19e3925f49)
-
+![1730045382584283](https://github.com/user-attachments/assets/14ebdac0-679d-45f0-b662-2751a370f57e)
 
 
 ## Features
@@ -57,7 +57,3 @@ InkMotion is an intuitive virtual whiteboard that uses OpenCV and cvzone’s han
 
 ## Contributing
 Want to help improve InkMotion? Contributions are welcome! If you encounter bugs or have feature suggestions, feel free to open an issue or submit a pull request. Let’s enhance this project together!
-
-![1730045382584283](https://github.com/user-attachments/assets/14ebdac0-679d-45f0-b662-2751a370f57e)
-![1730045105260711](https://github.com/user-attachments/assets/f7aee652-803f-432f-86bd-caf5816324fd)
-![1730042275475931](https://github.com/user-attachments/assets/929f9532-28b2-4f50-abbd-0a19e3925f49)
